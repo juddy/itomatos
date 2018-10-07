@@ -1,7 +1,6 @@
 # itomatOS
 ## Debian derived distribution
 ### An exercise in automation and distro packaging
-### W.J. Kennedy - Fri Oct  5 23:25:36 PDT 2018
 
 Ten years ago or more, itomatOS was born in Boulder, Colorado. Its origin stems from Morphix experiments ca. 2005 and continued interest and commitment to Debian.
 
