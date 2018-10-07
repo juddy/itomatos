@@ -8,4 +8,4 @@ sudo lb chroot
 
 #sudo lb source
 
-sudo ./binary.sh~
+#sudo ./binary.sh~
