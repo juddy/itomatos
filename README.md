@@ -12,7 +12,7 @@ ONIE is included in these builds, as I'm exploring Debian build pipelines where 
 
 ## Building itomatOS
 
-Running the build.sh script should be sufficient to produce a Debian Live image targetting amd64.
+Running the build.sh script should be sufficient to produce a Debian Live image targeting amd64.
 
 Further customization is pending:
 
